@@ -1,0 +1,11 @@
+{
+	"name": "RTCSounds",
+	"version_number": "1.1.0",
+	"website_url": "https://github.com/EtherealJade/RTCSounds",
+	"description": "This is some mod my friends and I made to replace the sounds with our own voices and other jokes.",
+	"dependencies": [
+		"Clementinise-CustomSounds-2.3.2",
+		"BepInEx-BepInExPack-5.4.2100",
+		"no00ob-LCSoundTool-1.5.1"
+	]
+}
